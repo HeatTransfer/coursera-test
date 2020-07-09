@@ -1,0 +1,35 @@
+@font-face
+{
+    font-family: Abel;
+    src:url('../Fonts/Abel/Abel-Regular.ttf');
+}
+
+@font-face
+{
+    font-family: Anton;
+    src: url('../Fonts/Anton/Anton-Regular.ttf');
+}
+
+@font-face
+{
+    font-family: Montserrat;
+    src: url('../Fonts/Montserrat/Montserrat-Medium.ttf');
+}
+
+@font-face
+{
+    font-family: Lato;
+    src:url('../Fonts/Lato/Lato-Regular.ttf');
+}
+
+@font-face
+{
+    font-family: Lobster;
+    src:url('../Fonts/Lobster/Lobster-Regular.ttf');
+}
+
+@font-face
+{
+    font-family: Oswald;
+    src:url('../Fonts/Oswald/Oswald-VariableFont_wght.ttf');
+}
